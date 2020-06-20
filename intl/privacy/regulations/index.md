@@ -7,7 +7,7 @@ description: Privacy laws are in a lot of flux. Here’s info you should know.
 
 The data privacy regulatory landscape is undergoing a lot of change. You probably have heard about the EU General Data Protection Regulation (GDPR) that went into effect on May 25, 2018. There are also other regulations in the works around the world. We’ve written up this reference document to put information about our compliance with privacy regulations in one place.
 
-## Are {{ product_name }} products in compliance?
+## Are {{ company_name }} products in compliance?
 
 First things first, you should view our full [Privacy policy](../index.md).
 

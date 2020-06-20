@@ -37,6 +37,6 @@ When none of the above is an option, a court order is required to add another ow
 
 ## What if I have another question about ownership?
 
-{{ product_name }} may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting {{ product_name }} [support][support].
+{{ company_name }} may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting {{ company_name }} [support][support].
 
 Questions about this account ownership policy? Please get in touch with our [support team][support] and we’ll be happy to answer them!
