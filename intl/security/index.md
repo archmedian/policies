@@ -33,11 +33,11 @@ All credit card transactions are processed using secure encryption—the same le
 
 ## 20 years in business.
 
-We've been around the block and we've seen a lot of companies come and go. Security isn't just about technology, it's about trust. Over the past 20 years we've worked hard to earn the trust of over hundreds of thousands of companies world wide. We'll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at {{ product_name }}.
+We've been around the block and we've seen a lot of companies come and go. Security isn't just about technology, it's about trust. Over the past 20 years we've worked hard to earn the trust of over hundreds of thousands of companies world wide. We'll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at {{ company_name }}.
 
 ## Want to know more?
 
-[Read our security whitepaper]({{ product_name }} Security Overview.pdf) for additional details.
+[Read our security whitepaper]({{ company_name }} Security Overview.pdf) for additional details.
 
 ## Have a concern? Need to report an incident?
 

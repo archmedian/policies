@@ -27,11 +27,11 @@ We provide a standard [Data Processing Addendum](https://app.hellosign.com/s/c09
 
 **✍️ [Sign the DPA online](https://app.hellosign.com/s/c0908a3d).**
 
-{{ product_name }} participates in the [EU-US and Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt0000000TP1OAAW&status=Active) to safeguard the transfer of personal data to the US, meeting the GDPR requirement for adequate data protection laws.
+{{ company_name }} participates in the [EU-US and Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt0000000TP1OAAW&status=Active) to safeguard the transfer of personal data to the US, meeting the GDPR requirement for adequate data protection laws.
 
 ## Subprocessors
 
-{{ product_name }} uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into GDPR-compliant data processing agreements with each subprocessor, and require the same of them.
+{{ company_name }} uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into GDPR-compliant data processing agreements with each subprocessor, and require the same of them.
 
 You can see which subprocessors we use by application by viewing the following linked lists:
 
@@ -41,6 +41,6 @@ You can see which subprocessors we use by application by viewing the following l
 
 In the CCPA, there is an important distinction between what are referred to as “service providers”, “businesses”, and “third parties”. You can see how the regulation defines these words by visiting the California Attorney General’s website: https://www.oag.ca.gov/privacy/ccpa.
 
-Under the CCPA, {{ product_name }} is a “service provider.” That means when we process data you provide, we do so solely for the purpose you signed up for. Our business model is simple: we charge a recurring subscription fee to our customers. We do not sell personal information or use your data for any other commercial purposes unless with your explicit permission.
+Under the CCPA, {{ company_name }} is a “service provider.” That means when we process data you provide, we do so solely for the purpose you signed up for. Our business model is simple: we charge a recurring subscription fee to our customers. We do not sell personal information or use your data for any other commercial purposes unless with your explicit permission.
 
 The CCPA also grants residents of California with additional rights related to their information. We grant those rights to all of our customers and detail them in our Privacy policy. Our Privacy policy also explains the information we collect in order to provide our services and clearly lists the only times we access or share your data.

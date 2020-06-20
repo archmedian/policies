@@ -1,5 +1,5 @@
 ---
-title: '{{ product_name }} 3 Account Ownership'
+title: '{{ product_3_name }} Account Ownership'
 description: 'Everything you need to know about {{ product_name }} account ownership.'
 ---
 
@@ -9,11 +9,11 @@ description: 'Everything you need to know about {{ product_name }} account owner
 [support]: https://{{ website_url }}/support
 [support-email]: mailto:support@{{ website_url }}
 
-# Who owns a {{ product_name }} 3 account?
+# Who owns a {{ product_3_name }} account?
 
-{{ product_name }} 3 accounts are owned by individuals, not by organizations. When you sign up and create a [{{ product_name }} account][home], you are the owner of that account and all the data in it. Account owners are the only people who can access all new {{ product_name }}s created in the account.
+{{ product_3_name }} accounts are owned by individuals, not by organizations. When you sign up and create a [{{ product_name }} account][home], you are the owner of that account and all the data in it. Account owners are the only people who can access all new {{ product_name }}s created in the account.
 
-{{ product_name }} 3 accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
+{{ product_3_name }} accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
 
 Owners are the only people who can add and remove other owners. Our legal responsibility is to the account owner(s), so we won’t let other people take over your account without your permission.
 

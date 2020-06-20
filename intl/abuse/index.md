@@ -1,5 +1,5 @@
 ---
-title: {{ product_name }} Restricted Use Policy
+title: {{ company_name }} Restricted Use Policy
 description: It is not okay to use {{ company_name }} products for these restricted purposes.
 ---
 

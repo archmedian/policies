@@ -1,9 +1,9 @@
 ---
-title: '{{ product_name }} Security Response'
-description: 'Have you discovered a web security flaw that might impact {{ product_name }}? Here’s how you can report it.'
+title: '{{ company_name }} Security Response'
+description: 'Have you discovered a web security flaw that might impact {{ company_name }}? Here’s how you can report it.'
 ---
 
-# {{ product_name }} security response
+# {{ company_name }} security response
 
 ## We appreciate your concern
 
@@ -11,7 +11,7 @@ Keeping customer data safe and secure is a huge responsibility and a top priorit
 
 ## Reporting security problems
 
-Send urgent or sensitive reports directly to [security@{{ website_url }}]({{ site.email_security }}). Use [our public key](../{{ product_name }}-security.pub) to keep your message safe and please provide us with a secure way to respond. We’ll get back to you as soon as we can, usually within 24 hours. Please follow up or [ping us on Twitter](https://twitter.com/basecamp) if you don’t hear back. **For requests that aren’t urgent or sensitive**: submit a [support request]({{ site.email_support }}).
+Send urgent or sensitive reports directly to [security@{{ website_url }}]({{ site.email_security }}). Use [our public key](../{{ company_name }}-security.pub) to keep your message safe and please provide us with a secure way to respond. We’ll get back to you as soon as we can, usually within 24 hours. Please follow up or [ping us on Twitter](https://twitter.com/basecamp) if you don’t hear back. **For requests that aren’t urgent or sensitive**: submit a [support request]({{ site.email_support }}).
 
 ## Tracking and disclosing security issues
 
@@ -21,7 +21,7 @@ We work with security researchers to keep up with the state-of-the-art in web se
 * We’ll investigate the issue and determine how it impacts our products. We won’t disclose issues until our investigation is finished, but we’ll work with you to ensure we fully understand the issue.
 * Once the issue is resolved, we’ll post a security update along with thanks and credit for the discovery.
 
-Our products are built on the Ruby on Rails framework (which we created and maintain). The issue you reported might affect Rails, Ruby, or some other part of our technology stack. We ask for your patience while we also make sure other companies and their customers are protected. Either way, you’ll always have a {{ product_name }} contact for your issue.
+Our products are built on the Ruby on Rails framework (which we created and maintain). The issue you reported might affect Rails, Ruby, or some other part of our technology stack. We ask for your patience while we also make sure other companies and their customers are protected. Either way, you’ll always have a {{ company_name }} contact for your issue.
 
 ## Thanks for working with us
 

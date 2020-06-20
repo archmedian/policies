@@ -1,5 +1,5 @@
 ---
-title: {{ product_name }} and Taxes
+title: {{ company_name }} and Taxes
 description: We are required to collect and remit sales tax in a number of US states and localities.
 ---
 
@@ -33,8 +33,8 @@ You’ll see sales tax on your invoice if you live in:
 ## Updating your billing address
 If you need to change your billing information because you don’t actually reside in a taxable jurisdiction, you can easily handle that within your accounts. You may need to re-enter your credit card information as part of the billing address update. Follow these links to see how to your update your credit card in:
 
-* [{{ product_name }} 3](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update)
-* [{{ product_name }} 2](https://2.basecamp-help.com/article/241-billing-info-and-plan-upgrades#credit-card)
+* [{{ product_3_name }}](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update)
+* [{{ product_2_name  }}](https://2.basecamp-help.com/article/241-billing-info-and-plan-upgrades#credit-card)
 * [{{ product_name }} Classic](https://help.{{ website_url }}/basecamp/questions/148-how-do-we-update-or-change-our-credit-card)
 * [Highrise](https://help.highrisehq.com/account/change-credit-card/)
 * [Campfire](https://help.backpackit.com/campfire/questions/360-how-do-i-update-or-change-our-credit-card)
