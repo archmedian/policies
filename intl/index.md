@@ -1,20 +1,27 @@
 ---
-title: '{{ product_name }} Policies and Terms of Service'
-description: 'All the policies and legal stuff for {{ product_name }} customers. We try to make all our policies as clear, fair, and readable as possible.'
+title: '{{ company_name }} Policies and Terms of Service'
+description: 'All the policies and legal stuff for {{ company_name }} customers. We try to make all our policies as clear, fair, and readable as possible.'
 ---
 
-# {{ product_name }} Policies, Terms, and Legal Stuff
+# {{ company_name }} Policies, Terms, and Legal Stuff
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
-* [Terms of Service](terms/index.md)
+{{ company_name }} Policies
+
 * [Privacy policy](privacy/index.md)
-* [Privacy Regulations reference](privacy/regulations/index.md)
+* [Cookies policy](cookies-policy/index.md)
 * [Cancellation policy](cancellation/index.md)
 * [Refund policy](refund/index.md)
 * [Use Restrictions policy](abuse/index.md)
 * [Security overview](security/index.md)
 * [Until the End of the Internet](until-the-end-of-the-internet/index.md)
+* [Privacy Regulations reference](privacy/regulations/index.md)
 * [U.S. local and state taxes](taxes/index.md)
-* Account ownership information for [{{ product_name }} 2](https://2.basecamp-help.com/article/411-account-ownership) and [{{ product_name }} 3](ownership-bc3/index.md)
-* [Service Level Agreement (SLA) for {{ product_name }} Big](sla/index.md)
+
+## Product-specific policies
+### {{ product_1_name }}:
+
+* [Terms of Service](terms/index.md)
+* Account ownership information for [{{ product_1_name }}]({{ product_1_account_ownership_info_url }})
+* [Service Level Agreement (SLA) for {{ product_name }}](sla/index.md)
