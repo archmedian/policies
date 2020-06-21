@@ -14,7 +14,7 @@ There is absolutely no warranty given, suggested etc. If you use these policies,
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
-* [List of policies](intl/index.md)
+* [List of policies](intl/en/index.md)
 
 ## Public Contributions Welcome
 
