@@ -1,1 +1,0 @@
-# Polityka plików cookies
