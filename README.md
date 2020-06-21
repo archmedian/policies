@@ -1,4 +1,4 @@
-# Policies, Terms, and Legal Stuff
+# Policies, Terms, and other Legal documents
 
 This is set of policies that could serve as a blueprint for your web app / web platform policies. They are based on [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
