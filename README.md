@@ -1,4 +1,16 @@
-# {{ company_name }} Policies, Terms, and Legal Stuff
+# Policies, Terms, and Legal Stuff
+
+This is set of policies that could serve as a blueprint for your web app / web platform policies. They are based on [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+The Basecamp policies are great. The ones here aim to be more generic. The aim is to:
+- remove basecamp specific clauses
+- add placeholders for common details (company & products names, address, contact detals etc.)
+- make them EU specific (for EU-based business)
+- make them more generic, while keeping many Basecamp approaches
+- enable internationalization & geo-adjustment
+
+## No warranty
+There is absolutely no warranty given, suggested etc. If you use these policies, apply them to your situation to mitigate your legal risks. 
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
