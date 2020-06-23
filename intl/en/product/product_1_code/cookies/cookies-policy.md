@@ -11,7 +11,8 @@ Why, when and what cookie files we send to your computer while you are browsing 
 
 Yes and no. Some cookies we use are necessery for proper functioning of our products, others are purely optional.
 
-## Our - why we need them
+## Our cookies
+
 The necessery cookies simply allow our products to function properly. For instance the login mechanism can only work with the use of login cookie. 
 
 The optional cookies help us improve your experience, check if the improvemnts we recently did actually work etc. 
