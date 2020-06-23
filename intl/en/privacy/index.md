@@ -7,9 +7,37 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 *Last updated: May 7, 2020*
 
-The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
+To {{ company_name }} the the privacy of your data — and it is your data, not ours! — is a critical value. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We work to protect your information against loss, misuse, unauthorized access, unauthorized disclosure, manipulation, or damage.    
 
-This policy applies to all products built and maintained by {{ owner_legal_name }}.
+This policy applies to all products made available by {{ owner_legal_name }}.
+
+## Basic Principle
+
+In the nutshell we apply GDPR to processing your personal information. It is one of the the world strictest privacy regulations. If you access our products from Switzerland, United States or United Kingdom, regulations of these countries may also apply, in particular:
+* The California Consumer Privacy Act of 2018 (CCPA) for the users in USA
+* Swiss Federal Data Protection Act for users in Switzerland
+
+### Location of data
+
+Our databases are located on cloud servers in {{ data_location_countries }}.
+
+## Transfer of Personal Data abroad
+
+We are entitled to transfer your Personal Data abroad, including to third party companies (designated service providers) to the minimal extent that is necessery for Data Processing described in this Privacy Policy. 
+
+The service providers will be required to protect Your Data to the same extent as us. If the level of data protection in a their country is lower than in the EU, we will require EU-level of your data protection by the the contract. We will further ensure it with following means:
+
+* concluding EU Model Clauses with the appointed service providers, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_de)
+* making sure that the appointed service providers are certified under the EU-US Privacy Shield (where the data recipient is based in the USA or stores the data there) [read more](https://www.privacyshield.gov/)
+* by making sure service providers have  Binding Corporate Rules (BCR) in place, that are recognised by a European data protection authority, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/binding-corporate-rules_en)
+
+## Legal basis
+
+There are three main legal bases for us to collect your personal information:
+
+* your agreement
+* legal requirements (e.g. we are requuired to keep financial transaction records)
+* legally justified interest (for example hacking attacks prevention and protection of our users data or our products and services)
 
 ## What we collect and why
 
@@ -23,25 +51,56 @@ When you sign up for a {{ company_name }} product, we typically ask for identify
 
 When you pay for a {{ company_name }} product, we ask for your credit card and billing address. That's so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
 
+### Payment processing
+
+We use leading payment processor provider, PayPal. You can find their privacy policies here: [PayPal](https://www.paypal.com/webapps/mpp/ua/privacy-full). We send your name and e-mail addressent to Paypal during a payment process. We also use Stripe for credit card payments. You can find the privacy policy [here](https://stripe.com/de/privacy).
+
 ### Geolocation data
 
 We log all access to all accounts by full IP address so that we can always verify no unauthorized access has happened. We keep this login data for as long as your product account is active.
 
 We also log full IP addresses used to sign up a product account. We keep this record forever because they are used to mitigate spammy signups.
 
-Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
+Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases.
 
 ### Website interactions
 
-When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days.
+When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. 
 
-Historically — including within the last 12 months — we have used third-party web analytics software. We no longer do for our actively sold and developed products and their marketing sites ({{ product_name }} and HEY). We are in the process of removing third party web analytics software from our other products and web properties.
+We use third parties (subprocessors) to track and analyze user journey through our websites and products. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
+
+### Remarketing
+
+We use remarketing mechanisms. This means, in a nutshell, that after visiting our product website we may show you our ads in some other places. This allows us to reach to the potential clients who are interested, rather than showing them to everybody.
+
+We use third parties (subprocessors) to facilitate remarketting process. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
+
+Advertising
+
+Many of our paid products are ad-free or allow for premioum ad-free plan. 
+
+However, advertising is one of the sources of our income. That's why we need to display advertisments on some of our products, websites or emails. To make them least annoying we try to target them the best we can. 
+
+ These advertisements can be targeted based on the information that is available to us such as language, anonymised geolocation, etc. This always happens in an automated manner; no human is looking at this data. 
+ 
+ Sometimes we display adverts from Google’s AdSense or AdExchange network. When this happens Google targets ads based on the content of our website and the other information Google has aobut you. We don't control the process. You can review Google’s Ads Privacy Policy [here](http://www.google.com/policies/privacy/ads/). You can configure ads preferences in Google’s Ads Preferences Manager. 
+ 
+ We may also use other third-party advertising companies to show you ads when you visit our websites or products. TO learn more or opt out, please see [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Cookies and Do Not Track
 
 We use two kinds of cookies - technical (required) and optional. Read more in [Cookies Policy](../product/{product_code}/cookies/cookies_policy.md)
 
 At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
+
+## Social Login
+
+We use third party platforms such us google, facebook, linkedin etc. to allow for one-click login ("social login"). Some of these tools can track the fact that you logd in using them. Please check their privacy policies to learn more:
+
+* [Google privacy policy](https://policies.google.com/privacy)
+* [Microsoft privacy policy](https://privacy.microsoft.com)
+* [Facebook privacy policy](https://www.facebook.com/policy.php)
+* [LinkedIn privacy policy](https://www.linkedin.com/legal/privacy-policy)
 
 ### Voluntary correspondence
 
@@ -89,18 +148,15 @@ At {{ company_name }}, we apply the same data rights to all customers, regardles
 
 Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [{{ privacy_email }}](mailto:{{ privacy_email }}) or at {{ owner_legal_name }}, {{ company_address_l1 }}, {{ company_address_l3 }}. To identify your specific authority to file a complaint or find out more about GDPR, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
-
 ## How we secure your data
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
 
 For more information about how we keep your information secure, please review our [security overview](../security/index.md).
 
-
 ## When you delete your account
 
 We delete your data after an account is cancelled. Your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
-
 
 ## EU-US, EU-UK and EU-Switzerland Privacy Shield policy
 
