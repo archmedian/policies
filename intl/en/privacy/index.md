@@ -11,9 +11,21 @@ To {{ company_name }} the the privacy of your data — and it is your data, not 
 
 This policy applies to all products made available by {{ owner_legal_name }}.
 
+## Who are we?
+
+We are IT Services company based in {{ company_registration_country }}. You can contact us using contact section of our website or write by post to the following address:
+
+{{ owner_legal_name }}
+[{{ company_website_address }}]({{ company_website_address }})
+{{ company_registration_info }}
+{{ company_address_l1 }}, 
+{{ company_address_l2 }}, 
+{{ company_address_l3 }}
+
+
 ## Basic Principle
 
-In the nutshell we apply GDPR to processing your personal information. It is one of the the world strictest privacy regulations. If you access our products from Switzerland, United States or United Kingdom, regulations of these countries may also apply, in particular:
+In the nutshell we apply EU GDPR to processing your personal information. It is one of the the world's strictest privacy regulations. If you access our products from Switzerland, United States or United Kingdom, regulations of these countries may also apply, in particular:
 * The California Consumer Privacy Act of 2018 (CCPA) for the users in USA
 * Swiss Federal Data Protection Act for users in Switzerland
 
@@ -69,13 +81,13 @@ When you browse our marketing pages or applications, your browser automatically 
 
 We use third parties (subprocessors) to track and analyze user journey through our websites and products. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
 
-### Remarketing
+## Remarketing
 
 We use remarketing mechanisms. This means, in a nutshell, that after visiting our product website we may show you our ads on some other websites, for example on Facebook Google or LinkedIn. This allows us to reach to the potential clients who are interested, rather than showing ads to everybody.
 
 We use third parties (subprocessors) to facilitate remarketting process. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
 
-Advertising
+## Advertising
 
 Many of our paid products are ad-free or allow for premioum ad-free plan. 
 
