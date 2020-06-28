@@ -25,7 +25,7 @@ Our databases are located on cloud servers in {{ data_location_countries }}.
 
 We are entitled to transfer your Personal Data abroad, including to third party companies (designated service providers) to the minimal extent that is necessery for Data Processing described in this Privacy Policy. 
 
-The service providers will be required to protect Your Data to the same extent as us. If the level of data protection in a their country is lower than in the EU, we will require EU-level of your data protection by the the contract. We will further ensure it with following means:
+The service providers will be required to protect Your Data to the same extent as us. If the level of data protection in a their country is lower than in the EU, we will require EU-level of your data protection by the contract. We will further ensure it with following means:
 
 * concluding EU Model Clauses with the appointed service providers, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_de)
 * making sure that the appointed service providers are certified under the EU-US Privacy Shield (where the data recipient is based in the USA or stores the data there) [read more](https://www.privacyshield.gov/)
@@ -53,7 +53,7 @@ When you pay for a {{ company_name }} product, we ask for your credit card and b
 
 ### Payment processing
 
-We use leading payment processor provider, PayPal. You can find their privacy policies here: [PayPal](https://www.paypal.com/webapps/mpp/ua/privacy-full). We send your name and e-mail addressent to Paypal during a payment process. We also use Stripe for credit card payments. You can find the privacy policy [here](https://stripe.com/de/privacy).
+We use leading payment processor provider, PayPal. You can find their privacy policies here: [PayPal](https://www.paypal.com/webapps/mpp/ua/privacy-full). We send your name and e-mail address to Paypal during a payment process. We also use Stripe for credit card payments. You can find the privacy policy [here](https://stripe.com/de/privacy).
 
 ### Geolocation data
 
@@ -71,7 +71,7 @@ We use third parties (subprocessors) to track and analyze user journey through o
 
 ### Remarketing
 
-We use remarketing mechanisms. This means, in a nutshell, that after visiting our product website we may show you our ads in some other places. This allows us to reach to the potential clients who are interested, rather than showing them to everybody.
+We use remarketing mechanisms. This means, in a nutshell, that after visiting our product website we may show you our ads on some other websites, for example on Facebook Google or LinkedIn. This allows us to reach to the potential clients who are interested, rather than showing ads to everybody.
 
 We use third parties (subprocessors) to facilitate remarketting process. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
 
@@ -83,19 +83,19 @@ However, advertising is one of the sources of our income. That's why we need to 
 
  These advertisements can be targeted based on the information that is available to us such as language, anonymised geolocation, etc. This always happens in an automated manner; no human is looking at this data. 
  
- Sometimes we display adverts from Google’s AdSense or AdExchange network. When this happens Google targets ads based on the content of our website and the other information Google has aobut you. We don't control the process. You can review Google’s Ads Privacy Policy [here](http://www.google.com/policies/privacy/ads/). You can configure ads preferences in Google’s Ads Preferences Manager. 
+ Sometimes we display adverts from Google’s AdSense, AdExchange. When this happens Google targets ads based on the content of our website and the other information Google has aobut you. We don't control the process. You can review Google’s Ads Privacy Policy [here](http://www.google.com/policies/privacy/ads/). You can configure ads preferences in Google’s Ads Preferences Manager. 
  
  We may also use other third-party advertising companies to show you ads when you visit our websites or products. TO learn more or opt out, please see [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Cookies and Do Not Track
 
-We use two kinds of cookies - technical (required) and optional. Read more in [Cookies Policy](../product/{product_code}/cookies/cookies_policy.md)
+We use two kinds of cookies - technical (required) and optional. You can read more details in our [Cookies Policy](../product/{product_code}/cookies/cookies_policy.md)
 
 At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
 
 ## Social Login
 
-We use third party platforms such us google, facebook, linkedin etc. to allow for one-click login ("social login"). Some of these tools can track the fact that you logd in using them. Please check their privacy policies to learn more:
+We use third party platforms such us google, facebook, linkedin etc. to allow for one-click login ("social login"). Some of these tools can track the fact that you logged in using them. Please check their privacy policies to learn more:
 
 * [Google privacy policy](https://policies.google.com/privacy)
 * [Microsoft privacy policy](https://privacy.microsoft.com)
@@ -110,7 +110,7 @@ We also store any information you volunteer like surveys. Sometimes when we do c
 
 ### Information we do not collect
 
-We don’t may collect limited characteristics of protected classifications like age, gender, gender identity, or gender expression. We don't require this information, but we respect your right of self-expression or to be addressed in the way you like. 
+We may collect limited characteristics of protected classifications like age, gender, gender identity, or gender expression. We don't require this information, but we respect your right of self-expression or to be addressed in the way you like. 
 
 In some of our products meant for contacting people we give option to restrict the availability for contact by age or gender.
 
@@ -157,31 +157,6 @@ For more information about how we keep your information secure, please review ou
 ## When you delete your account
 
 We delete your data after an account is cancelled. Your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
-
-## EU-US, EU-UK and EU-Switzerland Privacy Shield policy
-
-The GDPR requires that data transfer out of the EU must only happen to countries deemed as having adequate data protection laws. The United States generally doesn’t meet that requirement. [Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that allows for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary.
-
-### We comply with the frameworks for EU, UK, and Swiss data that are transferred into the United States
-
-{{ company_name }} complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, respectively. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles take precedent. To learn more about the Privacy Shield program, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
-
-## ? {{ company_name }} is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with regard to the Privacy Shield Frameworks.
-
-The Privacy Shield Frameworks uphold specific principles, many of which are already outlined in the section on Your Rights. For clarity, pursuant to the Privacy Shield Frameworks, the following principles apply to all EU, UK, and Swiss data that has been transferred into the United States:
-
-- Individuals have the right to access their personal data and to update, correct, and/or amend information that is incomplete. Individuals also have the right to request erasure of personal information that has been processed in violation of the principles. Individuals wishing to exercise these rights may do so by by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [{{ privacy_email }}](mailto:{{ privacy_email }}) or at {{ owner_legal_name }}, {{ company_address_l1 }}, {{ company_address_l3 }}.
-- We remain liable for the onward transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
--	We do not sell personal data nor do we permit it to be used for reasons other than those for which it was originally provided. If this practice should change in the future, we will update this policy accordingly and provide individuals with opt-out or opt-in choice as appropriate.
--	We may be required to release personal data in response to lawful requests from public authorities including to meet national security and law enforcement requirements.
-
-### We commit to resolving all complaints
-
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact {{ data_protection_officer_name }} at {{ company_name }} at {{ privacy_email }}, or by mail at {{ owner_legal_name }}, {{ company_address_l1 }}, {{ company_address_l3 }}.
-
-{{ company_name }} (the company) has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/programs/bbb-privacy-shield/eu-dispute-resolution](https://bbbprograms.org/programs/bbb-privacy-shield/eu-dispute-resolution) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
-
-If your Privacy Shield complaint cannot be resolved through these described channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please view the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 ## Changes & questions
 
