@@ -150,9 +150,9 @@ Our default practice is to not access your information. The only times we’ll e
 
 If {{ owner_legal_name }} in it's entirety or it's product is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
-### Location of data
+## Location of Site and Data
 
-Our databases are located on cloud servers in {{ data_location_countries }}.
+Our databases are located on cloud servers in {{ data_location_countries }}. Our products and other web properties are operated in the {{ country_of_operation }}. If you are located outside of European Union, please be aware that any information you provide to us will be transferred to European Union. By using our site or products, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 ## Transfer of Personal Data abroad
 
@@ -163,10 +163,6 @@ The service providers will be required to protect Your Data to the same extent a
 * concluding EU Model Clauses with the appointed service providers, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_de)
 * making sure that the appointed service providers are certified under the EU-US Privacy Shield (where the data recipient is based in the USA or stores the data there) [read more](https://www.privacyshield.gov/)
 * by making sure service providers have  Binding Corporate Rules (BCR) in place, that are recognised by a European data protection authority, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/binding-corporate-rules_en)
-
-## Location of Site and Data
-
-Our products and other web properties are operated in the {{ country_of_operation }}. If you are located outside in the United States, Switzerland, United Kingdom or elsewhere outside of European Union, please be aware that any information you provide to us will be transferred to European Union. By using our site or products, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 ## Your Rights With Respect to Your Information
 
