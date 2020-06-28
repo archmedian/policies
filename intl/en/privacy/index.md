@@ -7,43 +7,19 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 *Last updated: May 7, 2020*
 
-To {{ company_name }} the the privacy of your data — and it is your data, not ours! — is a critical value. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We work to protect your information against loss, misuse, unauthorized access, unauthorized disclosure, manipulation, or damage.    
+## 1. General Overview
+
+To {{ company_name }} the th1.e privacy of your data — and it is your data, not ours! — is a critical value. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We work to protect your information against loss, misuse, unauthorized access, unauthorized disclosure, manipulation, or damage.    
 
 This policy applies to all products made available by {{ owner_legal_name }}.
 
-## Who are we?
+## 2. Basic Principle
 
-We are IT Services company based in {{ company_registration_country }}. You can contact us using contact section of our website or write by post to the following address:
-
-{{ owner_legal_name }}
-[{{ company_website_address }}]({{ company_website_address }})
-{{ company_registration_info }}
-{{ company_address_l1 }}, 
-{{ company_address_l2 }}, 
-{{ company_address_l3 }}
-
-
-## Basic Principle
-
-In the nutshell we apply EU GDPR to processing your personal information. It is one of the the world's strictest privacy regulations. If you access our products from Switzerland, United States or United Kingdom, regulations of these countries may also apply, in particular:
+In the nutshell we apply EU GDPR to processing your personal information. It is one of the the world's strictest privacy regulations. If you access our products from Switzerland, United States:
 * The California Consumer Privacy Act of 2018 (CCPA) for the users in USA
 * Swiss Federal Data Protection Act for users in Switzerland
 
-### Location of data
-
-Our databases are located on cloud servers in {{ data_location_countries }}.
-
-## Transfer of Personal Data abroad
-
-We are entitled to transfer your Personal Data abroad, including to third party companies (designated service providers) to the minimal extent that is necessery for Data Processing described in this Privacy Policy. 
-
-The service providers will be required to protect Your Data to the same extent as us. If the level of data protection in a their country is lower than in the EU, we will require EU-level of your data protection by the contract. We will further ensure it with following means:
-
-* concluding EU Model Clauses with the appointed service providers, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_de)
-* making sure that the appointed service providers are certified under the EU-US Privacy Shield (where the data recipient is based in the USA or stores the data there) [read more](https://www.privacyshield.gov/)
-* by making sure service providers have  Binding Corporate Rules (BCR) in place, that are recognised by a European data protection authority, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/binding-corporate-rules_en)
-
-## Legal basis
+## 3. Legal basis
 
 There are three main legal bases for us to collect your personal information:
 
@@ -81,9 +57,44 @@ When you browse our marketing pages or applications, your browser automatically 
 
 We use third parties (subprocessors) to track and analyze user journey through our websites and products. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
 
+### Detailed information
+
+#### For all users
+| Data Element | Required/Optional | Goal | Legal Basis |
+|--|--|--|--|
+| email address | required | communication, identification | user acceptance |
+| phone number | required | communication, identification | user acceptance |
+| facebook id | optional | login | user acceptance |
+| google id | optional | login | user acceptance |
+| linkedin id | optional | login | user acceptance |
+| IP address | required | security, hacking attack prevention | legally justifiable interest |
+| anonymized IP Address | required | statistical visit analysis |  legally justifiable interest  |
+| technical cookies | required | log-in mechanism | legally justifiable interest |
+| optional cookies | Optional | statistical visit analysis | user acceptance |
+{{ aditional_product_based_personal_data_elements }}
+
+#### For users who decide to buy our products
+
+| Data Element | Required/Optional | Goal | Legal Basis |
+|--|--|--|--|
+| first name | required | billing | user acceptance |
+| last name | required | billing | user acceptance |
+| billing address | required | billing | user acceptance |
+| country of residence | required  | billing | user acceptance |
+| tax number | optional | billing | user acceptance |
+| last 4 digits of card number | optional | payments | user acceptance |
+
+**Please Note**
+> **We don't access or store your credit card details** when you make the payment. This is too sensitive of information and we don't even want to have it. Payment providers (Paypal & Stripe) handle the entrie payment process. They have extreemly strict measures to protect your credit card data and they are certified by proper authorities in many countries.
+
 ## Remarketing
 
 We use remarketing mechanisms. This means, in a nutshell, that after visiting our product website we may show you our ads on some other websites, for example on Facebook Google or LinkedIn. This allows us to reach to the potential clients who are interested, rather than showing ads to everybody.
+
+You can opt-out from this using these third-party website settings, in particular you can change it on following sites:
+
+- [Facebook](https://www.facebook.com/help/562973647153813?helpref=about_content)
+- [Google](https://adssettings.google.com/authenticated)
 
 We use third parties (subprocessors) to facilitate remarketting process. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
 
@@ -139,6 +150,20 @@ Our default practice is to not access your information. The only times we’ll e
 
 If {{ owner_legal_name }} in it's entirety or it's product is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
+### Location of data
+
+Our databases are located on cloud servers in {{ data_location_countries }}.
+
+## Transfer of Personal Data abroad
+
+We are entitled to transfer your Personal Data abroad, including to third party companies (designated service providers) to the minimal extent that is necessery for Data Processing described in this Privacy Policy. 
+
+The service providers will be required to protect Your Data to the same extent as us. If the level of data protection in a their country is lower than in the EU, we will require EU-level of your data protection by the contract. We will further ensure it with following means:
+
+* concluding EU Model Clauses with the appointed service providers, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_de)
+* making sure that the appointed service providers are certified under the EU-US Privacy Shield (where the data recipient is based in the USA or stores the data there) [read more](https://www.privacyshield.gov/)
+* by making sure service providers have  Binding Corporate Rules (BCR) in place, that are recognised by a European data protection authority, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/binding-corporate-rules_en)
+
 ## Location of Site and Data
 
 Our products and other web properties are operated in the {{ country_of_operation }}. If you are located outside in the United States, Switzerland, United Kingdom or elsewhere outside of European Union, please be aware that any information you provide to us will be transferred to European Union. By using our site or products, participating in any of our services and/or providing us with your information, you consent to this transfer.
@@ -170,8 +195,10 @@ For more information about how we keep your information secure, please review ou
 
 We delete your data after an account is cancelled. Your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
-## Changes & questions
+## Changes
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies. [on Github]({{ policies_repo_url }}). Whenever we make a significant change to our policies, we will also announce them on our [company blog]({{ company_blog_url }}).
+
+## Contact
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [{{ privacy_email }}](mailto:{{ privacy_email }}) and we’ll be happy to answer them!
