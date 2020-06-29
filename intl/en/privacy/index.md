@@ -64,8 +64,8 @@ We use third parties (subprocessors) to track and analyze user journey through o
 | Data Element | Required/Optional | Goal | Legal Basis | How long we keep | 
 |--|--|--|--|--|
 | IP address | required | security, hacking attack prevention | legally justifiable interest | less than 2 months |
-| technical cookies | required | log-in mechanism | legally justifiable interest | up to one year |
-| optional cookies | optional | statistical visit analysis | user consent | up to one year |
+| technical cookies | required | log-in mechanism | legally justifiable interest | up to two years |
+| optional cookies | optional | statistical visit analysis | user consent | up to two years |
 
 #### 4.6.2. Datails entered by you when you subscribe for our newsletter / notification, 
 | Data Element | Required/Optional | Goal | Legal Basis | How long we keep | 
@@ -103,7 +103,7 @@ We use third parties (subprocessors) to track and analyze user journey through o
 
 ### 5.1. Other users
 
-For some of our products we share your first name, initial of last name, photography and - when you authorize us - phone number with the other users of the same platform. We do it only when you subscribe for it and this is what the platform is forer. 
+For some of our products we share your first name, initial of last name, photography and - when you authorize us - phone number with the other users of the same platform. We do it only when you subscribe for it and this is what the platform is for. 
 
 ### 5.2. Third-party service provider
 
@@ -112,6 +112,10 @@ We use cloud server providers to host your data. They have high and certified se
 ### 5.3. IT Contractors
 
 We cooperate with IT service providers who may have temporary and limmited access to your data in very rare cases. If this is needed, we require highest security standards and sign proper contracts with those companies.
+
+### 5.4. Authorities
+
+When required by court order in {{ company_legal_jurisdiction }}
 
 ## 6. Remarketing
 
@@ -136,13 +140,18 @@ However, advertising is one of the sources of our income. That's why we need to 
  
  We may also use other third-party advertising companies to show you ads when you visit our websites or products. TO learn more or opt out, please see [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-### 8. Cookies and Do Not Track
+## 8. Cookies and Do Not Track
 
 We use two kinds of cookies - technical (required) and optional. You can read more details in our [Cookies Policy](../product/{product_code}/cookies/cookies_policy.md)
 
 At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
 
-## 9. Social Login
+## 9. Automated decision-making and profiling
+
+In some of our products we use automated decision making and profiling based on gender, geographic location, relationship with other users or belonging to organizations ( for example when company buys
+ our product for their employies )
+
+## 10. Social Login
 
 We use third party platforms such us google, facebook, linkedin etc. to allow for one-click login ("social login"). Some of these tools can track the fact that you logged in using them. Please check their privacy policies to learn more:
 
@@ -151,13 +160,13 @@ We use third party platforms such us google, facebook, linkedin etc. to allow fo
 * [Facebook privacy policy](https://www.facebook.com/policy.php)
 * [LinkedIn privacy policy](https://www.linkedin.com/legal/privacy-policy)
 
-### 9.1 Voluntary correspondence
+### 10.1 Voluntary correspondence
 
 When you write to {{ company_name }} with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
 
 We also store any information you volunteer like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.
 
-### 9.2. Information we do not collect
+### 10.2. Information we do not collect
 
 We may collect limited characteristics of protected classifications like age, gender, gender identity, or gender expression. We don't require this information, but we respect your right of self-expression or to be addressed in the way you like. 
 
@@ -165,7 +174,7 @@ In some of our products meant for contacting people we give option to restrict t
 
 We do not collect biometric data. In some of our products you are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
 
-## 10. When we access or share your information
+## 11. When we access or share your information
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
@@ -176,11 +185,11 @@ Our default practice is to not access your information. The only times we’ll e
 
 If {{ owner_legal_name }} in it's entirety or it's product is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
-## 11. Location of Site and Data
+## 12. Location of Site and Data
 
 Our databases are located on cloud servers in {{ data_location_countries }}. Our products and other web properties are operated in the {{ country_of_operation }}. If you are located outside of European Union, please be aware that any information you provide to us will be transferred to European Union. By using our site or products, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
-## 12. Transfer of Personal Data abroad
+## 13. Transfer of Personal Data abroad
 
 We are entitled to transfer your Personal Data abroad, including to third party companies (designated service providers) to the minimal extent that is necessery for Data Processing described in this Privacy Policy. 
 
@@ -190,7 +199,7 @@ The service providers will be required to protect Your Data to the same extent a
 * making sure that the appointed service providers are certified under the EU-US Privacy Shield (where the data recipient is based in the USA or stores the data there) [read more](https://www.privacyshield.gov/)
 * by making sure service providers have  Binding Corporate Rules (BCR) in place, that are recognised by a European data protection authority, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/binding-corporate-rules_en)
 
-## 13. Your Rights With Respect to Your Information
+## 14. Your Rights With Respect to Your Information
 
 At {{ company_name }}, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. {{ company_name }} recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 
@@ -207,20 +216,20 @@ At {{ company_name }}, we apply the same data rights to all customers, regardles
 
 Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [{{ privacy_email }}](mailto:{{ privacy_email }}) or at {{ owner_legal_name }}, {{ company_address_l1 }}, {{ company_address_l3 }}. To identify your specific authority to file a complaint or find out more about GDPR, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
-## 14. How we secure your data
+## 15. How we secure your data
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
 
 For more information about how we keep your information secure, please review our [security overview](../security/index.md).
 
-## 15. When you delete your account
+## 16. When you delete your account
 
 We delete your data after an account is cancelled. Your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
-## 16. Changes
+## 17. Changes
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies. [on Github]({{ policies_repo_url }}). Whenever we make a significant change to our policies, we will also announce them on our [company blog]({{ company_blog_url }}).
 
-## 17. Contact
+## 18. Contact
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [{{ privacy_email }}](mailto:{{ privacy_email }}) and we’ll be happy to answer them!
