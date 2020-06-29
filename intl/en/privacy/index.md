@@ -23,7 +23,8 @@ In the nutshell we apply EU GDPR to processing your personal information. It is 
 
 There are three main legal bases for us to collect your personal information:
 
-* your agreement
+* your consent
+* fulfilment of agreement between you and us (terms of service)
 * legal requirements (e.g. we are requuired to keep financial transaction records)
 * legally justified interest (for example hacking attacks prevention and protection of our users data or our products and services)
 
@@ -57,32 +58,43 @@ When you browse our marketing pages or applications, your browser automatically 
 
 We use third parties (subprocessors) to track and analyze user journey through our websites and products. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
 
-### 4.6. Detailed information
+### 4.6. Detailed information on your Personal Data we collect
 
-#### 4.6.1. For all users
-| Data Element | Required/Optional | Goal | Legal Basis |
-|--|--|--|--|
-| email address | required | communication, identification | user acceptance |
-| phone number | required | communication, identification | user acceptance |
-| facebook id | optional | login | user acceptance |
-| google id | optional | login | user acceptance |
-| linkedin id | optional | login | user acceptance |
-| IP address | required | security, hacking attack prevention | legally justifiable interest |
-| anonymized IP Address | required | statistical visit analysis |  legally justifiable interest  |
-| technical cookies | required | log-in mechanism | legally justifiable interest |
-| optional cookies | Optional | statistical visit analysis | user acceptance |
-{{ aditional_product_based_personal_data_elements }}
+#### 4.6.1. Datails provided by your system when you visit our sites / use our applications
+| Data Element | Required/Optional | Goal | Legal Basis | How long we keep | 
+|--|--|--|--|--|
+| IP address | required | security, hacking attack prevention | legally justifiable interest | less than 2 months |
+| technical cookies | required | log-in mechanism | legally justifiable interest | up to one year |
+| optional cookies | optional | statistical visit analysis | user consent | up to one year |
 
-#### 4.6.2. For users who decide to buy our products
+#### 4.6.2. Datails entered by you when you subscribe for our newsletter / notification, 
+| Data Element | Required/Optional | Goal | Legal Basis | How long we keep | 
+|--|--|--|--|--|
+| email address | required | communication, identification | user consent | until you unsubscribe |
+| first name | optional | communication | user consent | until you unsubscribe | until you unsubscribe |
 
-| Data Element | Required/Optional | Goal | Legal Basis |
-|--|--|--|--|
-| first name | required | billing | user acceptance |
-| last name | required | billing | user acceptance |
-| billing address | required | billing | user acceptance |
-| country of residence | required  | billing | user acceptance |
-| tax number | optional | billing | user acceptance |
-| last 4 digits of card number | optional | payments | user acceptance |
+#### 4.6.3. Datails entered by you when you sign-up to our product / service
+| Data Element | Required/Optional | Goal | Legal Basis | How long we keep |  
+|--|--|--|--|--|
+| email address | required | communication, identification | contract fulfilment | until you delete account |
+| phone number | required | communication, identification | contract fulfilment | until you delete account |
+| facebook id | optional | login | contract fulfilment | until you delete account |
+| google id | optional | login | contract fulfilment | until you delete account |
+| linkedin id | optional | login | contract fulfilment | until you delete account |
+
+
+#### 4.6.4. Datails entered by you when you buy our products
+
+| Data Element | Required/Optional | Goal | Legal Basis | How long we keep |
+|--|--|--|--|--|
+| first name | required | billing | law requirements | as required by law |
+| last name | required | billing | law requirements | as required by law |
+| company name | optional | billing | law requirements | as required by law |
+| billing address | required | billing | law requirements | as required by law |
+| country of residence | required  | billing | law requirements | as required by law |
+| state / province | required  | billing | law requirements | as required by law |
+| tax number | optional | billing | law requirements | as required by law |
+| last 4 digits of card number | optional | payments | law requirements | as required by law |
 
 **Please Note**
 > **We don't access or store your credit card details** when you make the payment. This is too sensitive of information and we don't even want to have it. Payment providers (Paypal & Stripe) handle the entrie payment process. They have extreemly strict measures to protect your credit card data and they are certified by proper authorities in many countries.
