@@ -27,23 +27,23 @@ There are three main legal bases for us to collect your personal information:
 * legal requirements (e.g. we are requuired to keep financial transaction records)
 * legally justified interest (for example hacking attacks prevention and protection of our users data or our products and services)
 
-## What we collect and why
+## 4. What we collect and why
 
 Our guiding principle is to collect only what we need. Here’s what that means in practice:
 
-### Identity & access
+### 4.1. Identity & access
 
 When you sign up for a {{ company_name }} product, we typically ask for identifying information such as your name, email address, phone number and maybe a company name. That’s just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We sometimes also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
-### Billing information
+### 4.2. Billing information
 
 When you pay for a {{ company_name }} product, we ask for your credit card and billing address. That's so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
 
-### Payment processing
+### 4.3. Payment processing
 
 We use leading payment processor provider, PayPal. You can find their privacy policies here: [PayPal](https://www.paypal.com/webapps/mpp/ua/privacy-full). We send your name and e-mail address to Paypal during a payment process. We also use Stripe for credit card payments. You can find the privacy policy [here](https://stripe.com/de/privacy).
 
-### Geolocation data
+### 4.4. Geolocation data
 
 We log all access to all accounts by full IP address so that we can always verify no unauthorized access has happened. We keep this login data for as long as your product account is active.
 
@@ -51,15 +51,15 @@ We also log full IP addresses used to sign up a product account. We keep this re
 
 Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases.
 
-### Website interactions
+### 4.5. Website interactions
 
 When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. 
 
 We use third parties (subprocessors) to track and analyze user journey through our websites and products. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
 
-### Detailed information
+### 4.6. Detailed information
 
-#### For all users
+#### 4.6.1. For all users
 | Data Element | Required/Optional | Goal | Legal Basis |
 |--|--|--|--|
 | email address | required | communication, identification | user acceptance |
@@ -73,7 +73,7 @@ We use third parties (subprocessors) to track and analyze user journey through o
 | optional cookies | Optional | statistical visit analysis | user acceptance |
 {{ aditional_product_based_personal_data_elements }}
 
-#### For users who decide to buy our products
+#### 4.6.2. For users who decide to buy our products
 
 | Data Element | Required/Optional | Goal | Legal Basis |
 |--|--|--|--|
@@ -87,7 +87,7 @@ We use third parties (subprocessors) to track and analyze user journey through o
 **Please Note**
 > **We don't access or store your credit card details** when you make the payment. This is too sensitive of information and we don't even want to have it. Payment providers (Paypal & Stripe) handle the entrie payment process. They have extreemly strict measures to protect your credit card data and they are certified by proper authorities in many countries.
 
-## Remarketing
+## 5. Remarketing
 
 We use remarketing mechanisms. This means, in a nutshell, that after visiting our product website we may show you our ads on some other websites, for example on Facebook Google or LinkedIn. This allows us to reach to the potential clients who are interested, rather than showing ads to everybody.
 
@@ -98,7 +98,7 @@ You can opt-out from this using these third-party website settings, in particula
 
 We use third parties (subprocessors) to facilitate remarketting process. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
 
-## Advertising
+## 6. Advertising
 
 Many of our paid products are ad-free or allow for premioum ad-free plan. 
 
@@ -110,13 +110,13 @@ However, advertising is one of the sources of our income. That's why we need to 
  
  We may also use other third-party advertising companies to show you ads when you visit our websites or products. TO learn more or opt out, please see [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-### Cookies and Do Not Track
+### 7. Cookies and Do Not Track
 
 We use two kinds of cookies - technical (required) and optional. You can read more details in our [Cookies Policy](../product/{product_code}/cookies/cookies_policy.md)
 
 At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
 
-## Social Login
+## 8. Social Login
 
 We use third party platforms such us google, facebook, linkedin etc. to allow for one-click login ("social login"). Some of these tools can track the fact that you logged in using them. Please check their privacy policies to learn more:
 
@@ -125,13 +125,13 @@ We use third party platforms such us google, facebook, linkedin etc. to allow fo
 * [Facebook privacy policy](https://www.facebook.com/policy.php)
 * [LinkedIn privacy policy](https://www.linkedin.com/legal/privacy-policy)
 
-### Voluntary correspondence
+### 8.1 Voluntary correspondence
 
 When you write to {{ company_name }} with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
 
 We also store any information you volunteer like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.
 
-### Information we do not collect
+### 8.2. Information we do not collect
 
 We may collect limited characteristics of protected classifications like age, gender, gender identity, or gender expression. We don't require this information, but we respect your right of self-expression or to be addressed in the way you like. 
 
@@ -139,7 +139,7 @@ In some of our products meant for contacting people we give option to restrict t
 
 We do not collect biometric data. In some of our products you are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
 
-## When we access or share your information
+## 9. When we access or share your information
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
@@ -150,11 +150,11 @@ Our default practice is to not access your information. The only times we’ll e
 
 If {{ owner_legal_name }} in it's entirety or it's product is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
-## Location of Site and Data
+## 10. Location of Site and Data
 
 Our databases are located on cloud servers in {{ data_location_countries }}. Our products and other web properties are operated in the {{ country_of_operation }}. If you are located outside of European Union, please be aware that any information you provide to us will be transferred to European Union. By using our site or products, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
-## Transfer of Personal Data abroad
+## 11. Transfer of Personal Data abroad
 
 We are entitled to transfer your Personal Data abroad, including to third party companies (designated service providers) to the minimal extent that is necessery for Data Processing described in this Privacy Policy. 
 
@@ -164,7 +164,7 @@ The service providers will be required to protect Your Data to the same extent a
 * making sure that the appointed service providers are certified under the EU-US Privacy Shield (where the data recipient is based in the USA or stores the data there) [read more](https://www.privacyshield.gov/)
 * by making sure service providers have  Binding Corporate Rules (BCR) in place, that are recognised by a European data protection authority, [read more](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/binding-corporate-rules_en)
 
-## Your Rights With Respect to Your Information
+## 12. Your Rights With Respect to Your Information
 
 At {{ company_name }}, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. {{ company_name }} recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 
@@ -181,20 +181,20 @@ At {{ company_name }}, we apply the same data rights to all customers, regardles
 
 Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [{{ privacy_email }}](mailto:{{ privacy_email }}) or at {{ owner_legal_name }}, {{ company_address_l1 }}, {{ company_address_l3 }}. To identify your specific authority to file a complaint or find out more about GDPR, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
-## How we secure your data
+## 13. How we secure your data
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
 
 For more information about how we keep your information secure, please review our [security overview](../security/index.md).
 
-## When you delete your account
+## 14. When you delete your account
 
 We delete your data after an account is cancelled. Your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
-## Changes
+## 15. Changes
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies. [on Github]({{ policies_repo_url }}). Whenever we make a significant change to our policies, we will also announce them on our [company blog]({{ company_blog_url }}).
 
-## Contact
+## 16. Contact
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [{{ privacy_email }}](mailto:{{ privacy_email }}) and we’ll be happy to answer them!
