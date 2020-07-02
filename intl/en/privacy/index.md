@@ -56,7 +56,7 @@ Web analytics data — described further in the Website Interactions section —
 
 When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. 
 
-We use third parties (subprocessors) to track and analyze user journey through our websites and products. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
+We use third parties (subprocessors) to track and analyze user journey through our websites and products. You can learn more here: [subprocessors](../subprocessors/index.md)
 
 ### 4.6. Detailed information on your Personal Data we collect
 
