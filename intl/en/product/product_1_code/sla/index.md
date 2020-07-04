@@ -3,6 +3,9 @@ title: '{{ product_3_name  }} Service Level Agreement (SLA)'
 description: 'Read the service level agreement for {{ product_3_name  }} accounts.'
 ---
 
+
+# !! This is not valid, not in use and not binding. This is just a template coming from basecamp. We are not using SLA at the moment.
+
 [support]: https://{{ website_url }}/support
 [uptime]: https://{{ website_url }}/3/uptime
 [status]: https://status.{{ website_url }}
