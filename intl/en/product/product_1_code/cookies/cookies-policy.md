@@ -24,5 +24,16 @@ We use third party services as they provide specialised functionality. The examp
 You can disable third party cookies at the service provider setting pages.
 
 ## List of cookes
+| Name | Type | Purpose | Data collected | Expiry time |
+|--|--|--|--|--|
+
+
 {{ cookies_table }}
 
+## WHo are we
+
+The administrator of this website is {{ owner_legal_name }}
+
+{{ owner_legal_name }}
+{{ company_address_l1 }}
+{{ company_address_l2 }}
