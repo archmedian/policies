@@ -7,7 +7,7 @@ description: All the terms that you agree to when you sign up for a {{ company_n
 
 *Last updated: May 7, 2020*
 
-From everyone at {{ company_name }}, thank you for using our products! We build them to help you do your best work. There are millions of people using {{ company_name }} products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
+From everyone at {{ company_name }}, thank you for using our products! We build them to help you do your best work. There are many people using {{ company_name }} products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
 When we say “we”, “our”, or “us” in this document, we are referring to {{ owner_legal_name }}.
 
@@ -17,11 +17,11 @@ We may update these Terms of Service in the future. You can track all changes [o
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That's true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
 
-If you violate of any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://{{ website_url }}/about/team), [how we work](https://{{ website_url }}/handbook), and keeping an open door to [your feedback]({{ site.email_support }}).
+If you violate of any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust.
 
 ## Account Terms
 
-1. You are responsible for maintaining the security of your account and password. We cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend users set up [two-factor authentication]({{ company_blog_url }}basecamp-no-longer-requires-google-for-two-factor-authentication/) for added security. In some of our Services, we may require it.
+1. You are responsible for maintaining the security of your account and password. We cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md).
 3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
@@ -44,7 +44,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 
 ## Modifications to the Service and Prices
 
-1. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
+1. Sometimes it becomes technically impossible to continue to maintain a product. Sometimes the same is true for just a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
 2. Sometimes we change the pricing structure for our products. When we do that, we tend to exempt existing customers from those changes. However, we may choose to change the prices for existing customers. If we do so, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about changes on our websites or the affected Services themselves.
 
 ## Uptime, Security, and Privacy
