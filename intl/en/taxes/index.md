@@ -33,12 +33,7 @@ You’ll see sales tax on your invoice if you live in:
 ## Updating your billing address
 If you need to change your billing information because you don’t actually reside in a taxable jurisdiction, you can easily handle that within your accounts. You may need to re-enter your credit card information as part of the billing address update. Follow these links to see how to your update your credit card in:
 
-* [{{ product_3_name }}](https://3.basecamp-help.com/article/101-handling-billing-and-invoices#update)
-* [{{ product_2_name  }}](https://2.basecamp-help.com/article/241-billing-info-and-plan-upgrades#credit-card)
-* [{{ product_name }} Classic](https://help.{{ website_url }}/basecamp/questions/148-how-do-we-update-or-change-our-credit-card)
-* [Highrise](https://help.highrisehq.com/account/change-credit-card/)
-* [Campfire](https://help.backpackit.com/campfire/questions/360-how-do-i-update-or-change-our-credit-card)
-* [Backpack](https://help.backpackit.com/backpack/questions/251-how-do-we-update-or-change-the-credit-card-you-re-billing)
+* [{{ product_name }}]({{ product_billing_info_url }})
 
 ## We’re here to help
 Please [contact our Support team]({{ site.email_support }}) if you have trouble or if:
