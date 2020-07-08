@@ -9,7 +9,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 ## 1. General Overview
 
-To {{ company_name }} the th1.e privacy of your data — and it is your data, not ours! — is a critical value. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We work to protect your information against loss, misuse, unauthorized access, unauthorized disclosure, manipulation, or damage.    
+To {{ company_name }} the privacy of your data — and it is your data, not ours! — is a critical value. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We work to protect your information against loss, misuse, unauthorized access, unauthorized disclosure, manipulation, or damage.    
 
 This policy applies to all products made available by {{ owner_legal_name }}.
 
