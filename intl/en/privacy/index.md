@@ -38,7 +38,7 @@ When you sign up for a {{ company_name }} product, we typically ask for identify
 
 ### 4.2. Billing information
 
-When you pay for a {{ company_name }} product, we ask for your credit card and billing address. That's so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
+When you pay for a {{ company_name }} product, we ask for your credit card and billing address. That's so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any VAT in the EU or sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
 
 ### 4.3. Payment processing
 
@@ -56,7 +56,7 @@ Web analytics data — described further in the Website Interactions section —
 
 When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. 
 
-We use third parties (subprocessors) to track and analyze user journey through our websites and products. You can learn more here: [subprocessors](../subprocessors/index.md)
+We use third parties (processors) to track and analyze user journey through our websites and products. You can learn more here: [processors](../subprocessors/index.md)
 
 ### 4.6. Detailed information on your Personal Data we collect
 
@@ -126,7 +126,7 @@ You can opt-out from this using these third-party website settings, in particula
 - [Facebook](https://www.facebook.com/help/562973647153813?helpref=about_content)
 - [Google](https://adssettings.google.com/authenticated)
 
-We use third parties (subprocessors) to facilitate remarketting process. You can learn more here: [subprocessors](../product/{product_1_code}/subprocessors/index.md)
+We use third parties (processors) to facilitate remarketting process. You can learn more here: [processors](../product/{product_1_code}/subprocessors/index.md)
 
 ## 7. Advertising
 
@@ -178,7 +178,7 @@ We do not collect biometric data. In some of our products you are given the opti
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-* **To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use here: [Subprocessors](../product/{product_code}/subprocessors/inde.xmd). Having subprocessors means we are using technology to access your data. No {{ company_name }} human looks at your data for these purposes.
+* **To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use here: [Subprocessors](../product/{product_code}/processors/inde.xmd). Having processors means we are using technology to access your data. No {{ company_name }} human looks at your data for these purposes.
 * **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 * **To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
 * **When required under applicable law.** If the appropriate law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***
@@ -212,7 +212,7 @@ At {{ company_name }}, we apply the same data rights to all customers, regardles
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
 * **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.
 * **Right to not be subject to Automated Decision-Making.** You have the right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
-* **Right to Non-Discrimination.** This right stems from the CCPA. We do and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights (such as the right “to be forgotten”) may, by virtue of your exercising those rights, prevent you from using our Services.
+* **Right to Non-Discrimination.** This right stems from the CCPA. We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights (such as the right “to be forgotten”) may, by virtue of your exercising those rights, prevent you from using our Services.
 
 Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [{{ privacy_email }}](mailto:{{ privacy_email }}) or at {{ owner_legal_name }}, {{ company_address_l1 }}, {{ company_address_l3 }}. To identify your specific authority to file a complaint or find out more about GDPR, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 

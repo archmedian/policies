@@ -1,4 +1,4 @@
-# List of subprocessors of { company_name }
+# List of processors of { company_name }
 
 - [AWS](https://aws.amazon.com) - cloud servers provider
 - [Google](https://google.com) - cloud servers, advertising, remarketing and analytics solutions
