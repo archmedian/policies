@@ -15,7 +15,6 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Refund policy](refund/index.md)
 * [Use Restrictions policy](abuse/index.md)
 * [Security overview](security/index.md)
-* [Until the End of the Internet](until-the-end-of-the-internet/index.md)
 * [Privacy Regulations reference](privacy/regulations/index.md)
 * [U.S. local and state taxes](taxes/index.md)
 
