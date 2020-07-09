@@ -56,7 +56,7 @@ Web analytics data — described further in the Website Interactions section —
 
 When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. 
 
-We use third parties (processors) to track and analyze user journey through our websites and products. You can learn more here: [processors](../subprocessors/index.md)
+We use third parties (processors) to track and analyze user journey through our websites and products. You can learn more here: [processors](..//index.md)
 
 ### 4.6. Detailed information on your Personal Data we collect
 
@@ -126,7 +126,7 @@ You can opt-out from this using these third-party website settings, in particula
 - [Facebook](https://www.facebook.com/help/562973647153813?helpref=about_content)
 - [Google](https://adssettings.google.com/authenticated)
 
-We use third parties (processors) to facilitate remarketting process. You can learn more here: [processors](../product/{product_1_code}/subprocessors/index.md)
+We use third parties (processors) to facilitate remarketting process. You can learn more here: [processors](../product/{product_1_code}//index.md)
 
 ## 7. Advertising
 
@@ -178,7 +178,7 @@ We do not collect biometric data. In some of our products you are given the opti
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-* **To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use here: [Subprocessors](../product/{product_code}/processors/inde.xmd). Having processors means we are using technology to access your data. No {{ company_name }} human looks at your data for these purposes.
+* **To provide products or services you've requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use here: [](../product/{product_code}/processors/inde.xmd). Having processors means we are using technology to access your data. No {{ company_name }} human looks at your data for these purposes.
 * **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 * **To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
 * **When required under applicable law.** If the appropriate law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***

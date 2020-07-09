@@ -57,7 +57,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
   - To safeguard {{ product_name }}. We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
   - To the extent required by applicable law.
 
-5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data {{ product_subprocessors_url }}
+5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all  who handle personal data {{ product__url }}
 6. Under the California Consumer Privacy Act (“CCPA”), {{ company_name }} is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, [Privacy policy](../privacy/index.md), and [other policies](../index.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use {{ company_name }}’s Services in a way that violates the regulations.
 
 ## Copyright and Content Ownership

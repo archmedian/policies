@@ -29,13 +29,13 @@ We provide a standard [Data Processing Addendum](https://app.hellosign.com/s/c09
 
 {{ company_name }} participates in the [EU-US and Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt0000000TP1OAAW&status=Active) to safeguard the transfer of personal data to the US, meeting the GDPR requirement for adequate data protection laws.
 
-## Subprocessors
+## 
 
-{{ company_name }} uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into GDPR-compliant data processing agreements with each subprocessor, and require the same of them.
+{{ company_name }} uses third party , such as cloud computing providers and customer support software, to provide our services. We enter into GDPR-compliant data processing agreements with each subprocessor, and require the same of them.
 
-You can see which subprocessors we use by application by viewing the following linked lists:
+You can see which  we use by application by viewing the following linked lists:
 
-* [{{ product_name }} subprocessors](../basecamp-subprocessors/index.md)
+* [{{ product_name }} ](../basecamp-/index.md)
 
 ## CCPA: our role as a service provider
 
